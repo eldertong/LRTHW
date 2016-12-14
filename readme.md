@@ -5,11 +5,12 @@ Learn Ruby The Hard Way is the same highly popular way for total beginners to fi
   - Exercises 1-7 were required to be completed prior to the first day of Mined Minds bootcamp. http://www.minedminds.org/
   - I was able to work through these fairly quickly and re-familiarize myself with command line entry. 
 
-Exercise 1: A Good First Program
-Exercise 2: Comments And Pound Characters
-Exercise 3: Numbers And Math
-Exercise 4: Variables And Names
-Exercise 5: More Variables And Printing
-Exercise 6: Strings And Text
-Exercise 7: More Printing
+Exercise 1: A Good First Program <br>
+Exercise 2: Comments And Pound Characters <br>
+Exercise 3: Numbers And Math <br>
+Exercise 4: Variables And Names <br>
+Exercise 5: More Variables And Printing <br>
+Exercise 6: Strings And Text <br>
+Exercise 7: More Printing <br>
+Exercise 8: Printing, Printing
  
